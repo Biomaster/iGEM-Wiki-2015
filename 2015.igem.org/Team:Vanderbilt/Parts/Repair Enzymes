@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Team:Vanderbilt/Parts/Repair Enzymes - 2015.igem.org</title>
+<meta name="generator" content="MediaWiki 1.24.1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="2015.igem.org (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://2015.igem.org/wiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/Team:Vanderbilt/Parts/Repair_Enzymes" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="2015.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://2015.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.igem.styles&amp;only=styles&amp;skin=igem&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/Igem/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/Igem/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: 2015_igem_org:resourceloader:filter:minify-css:7:875d2068ffef0b9ce1dbab8400ce2379 */</style>
+<script src="http://2015.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=igem&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Team:Vanderbilt/Parts/Repair_Enzymes","wgTitle":"Team:Vanderbilt/Parts/Repair Enzymes","wgCurRevisionId":398389,"wgRevisionId":398389,"wgArticleId":31975,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Team:Vanderbilt/Parts/Repair_Enzymes","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"hidesig":true,"preview":false,"previewDialog":false,"publish":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"igem","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: 2015_igem_org:resourceloader:filter:minify-js:7:c2a6e0f393444edcfe542f485c3692c2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Vanderbilt_Parts_Repair_Enzymes skin-igem action-view">
+
+        <script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+
+    <div id='globalWrapper'>
+        <div id='top_menu_under' class='noprint'></div>
+        <div id='top_menu_14' class='noprint'>Loading menubar.....</div> <!-- Will be replaced with the jQuery.load -->
+		<script>jQuery('#top_menu_14').load('http://2015.igem.org/cgi/top_menu_14/menubar_reply.cgi',
+						    {   t:"Team%3AVanderbilt%2FParts%2FRepair%20Enzymes",
+							a:"View+%2FTeam%3AVanderbilt%2FParts%2FRepair_Enzymes++View source+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3AVanderbilt%2FParts%2FRepair_Enzymes%26action%3Dedit++History+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3AVanderbilt%2FParts%2FRepair_Enzymes%26action%3Dhistory++Page+%2FTeam%3AVanderbilt%2FParts%2FRepair_Enzymes++Discussion+%2Fwiki%2Findex.php%3Ftitle%3DTalk%3ATeam%3AVanderbilt%2FParts%2FRepair_Enzymes%26action%3Dedit%26redlink%3D1++" });
+		
+		</script>
+		<div id="content" class="mw-body" role="main">
+		    <a id="top"></a>
+		    <h1 id="firstHeading" class="firstHeading">
+		        <span dir="auto">Team:Vanderbilt/Parts/Repair Enzymes</span>
+		    </h1>
+		    <div id="bodyContent">
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>
+
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1 user-scalable=no">
+    <title>Vanderbilt iGEM 2015</title>
+
+	<!-- latest compiled and minified CSS -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"></link>
+	
+	<!-- jQuery (bootstrap's javscript plugins need) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	
+	<!-- latest compiled and minified JavaScript -->
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	
+	<!-- Normalize JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css"></script>
+	
+	<!-- Scrolling navigation CSS -->
+        <link href="css/scrolling-nav.css" rel="stylesheet">
+	
+        <!-- Scrolling Nav JavaScript -->
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/scrolling-nav.js"></script>
+
+        <!-- isotope -->
+        <script src="/path/to/isotope.pkgd.min.js"></script>
+	
+	<!-- get the Google font -->
+	<link href='https://fonts.googleapis.com/css?family=Crimson+Text:700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=UnifrakturMaguntia' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=MedievalSharp' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Uncial+Antiqua' rel='stylesheet' type='text/css'>
+
+	<!-- Custom CSS -->
+	<link href="http://2015.igem.org/Template:Vanderbilt_Formatting?action=raw&amp;ctype=text/css" rel="stylesheet">	
+
+        <!-- DNA strand animation -->
+        <script href="http://2015.igem.org/Template:Vanderbilt/dna_strand.js?action=raw&amp;ctype=text/javascript"></script>
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="http://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="http://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+        <script>
+          $(document).ready(function() {
+              var grid = document.querySelector('.grid');
+              var iso;
+
+              imagesLoaded( grid, function() {
+                  // init Isotope after all images have loaded
+                  iso = new Isotope( grid, {
+                  itemSelector: '.grid-item',
+                  percentPosition: true,
+                  masonry: {
+                      columnWidth: '.grid-sizer'
+                  }
+                  });
+              });
+          });
+
+        </script>
+
+<style>
+#page-top, .intro-text {
+    width: 100%;
+    margin: 0px;
+}
+
+.grid {
+  background-color: #5f212c;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.span-text
+{
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 100%; /* <-- adjust this */
+  margin: 5px;
+}
+
+.intro-heading {
+    text-shadow:
+    -1.5px -1.5px 0 #565656,
+    1.5px -1.5px 0 #565656,
+    -1.5px 1.5px 0 #565656,
+    1.5px 1.5px 0 #565656;
+}
+</style>
+</head>
+
+
+  <!-- Header -->
+<header id="header" class="row">	
+	<div class="container">
+		<div class="intro-text">
+			<div class="intro-heading" style="font-style:normal; font-family:Uncial Antiqua; font-size: 2em;">
+                          <font id="header_text" color="#000000">Demons in the Code</font>
+                        </div>
+                        <img id="vandy_logo" src="http://2015.igem.org/wiki/images/5/52/Vanderbilt_2015_igemlogo_visibility.png"
+                             alt="vanderbilt's igem logo" width="30%"/>
+		</div>
+	</div>
+</header>   
+
+<!-- MAIN CONTAINER -->
+<div id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" class="index container">
+
+<script>
+
+if(window.location.href !== "http://2015.igem.org/Team:Vanderbilt") {
+    document.getElementById("header").style.backgroundImage =    "url('http://2015.igem.org/wiki/images/9/9b/Vanderbilt_2015_plain_sequence_background.png')";
+}
+</script>
+
+
+<style>
+@media (min-width: 979px) {
+#header_text {
+  font-size: 2em;
+}
+.intro-heading {
+  margin-top: -10%;
+}
+#vandy_logo {
+width: 15%;
+}
+}
+</style>
+
+
+
+<style>
+.btn {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+background-color: #3e0812;
+color: #9e515e;
+}
+a:link {
+    text-decoration: none;
+color: #9e515e;
+}
+a:visited {
+    text-decoration: none;
+color: #9e515e;
+}
+
+.chosen {
+background-color: #220006;
+color: #3e0812;
+}
+
+
+</style>
+
+<div id="breadcrumb_container" class="container" style="position:fixed; top:88px; z-index:2;">
+<div class="row">
+        <div class="btn-group btn-breadcrumb">
+            <a href="#" class="btn btn-default"><i class="glyphicon glyphicon-wrench"></i></a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Part_Collection" class="btn btn-default">Part Collection</a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Optimized_RFPs" class="btn btn-default">Optimized RFPs</a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Visualizing_Evolution" class="btn btn-default">Visualizing Evolution</a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Repair_Enzymes" class="btn btn-default chosen">Repair Enzymes</a>
+        </div>
+</div>
+</div>
+
+
+
+<style>
+
+    .dropdown-header {
+        font-size: 150%;
+        margin: 0;
+        border: 0;
+    }
+
+    .divider {
+        margin: 0;
+        border: 0;
+    }
+
+    .no-space {
+        margin-top: 5%;
+    }
+
+    img {
+        vertical-align: top;
+    }
+
+
+
+</style>
+
+
+<!-- the navigation bar -->
+<nav class="navbar navbar-fixed-top navbar-default" role="navigation" style="background-color: #3e0812; padding-top: 14px;">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bottom_menu">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="http://2015.igem.org">
+                <img src="http://2015.igem.org/wiki/images/0/05/2015_vanderbilt_igem_logo.png" alt="iGem Logo">
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bottom_menu">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="http://2015.igem.org/Team:Vanderbilt">
+                        <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+                    </a>
+                </li>
+                <li class="dropdown">
+                    <a data-toggle="dropdown"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                <li class="dropdown-header no-space">Team</li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://2015.igem.org/Team:Vanderbilt/Team/About"><font color="#7e1d2e">About</font></a></li>
+                <li><a href="http://2015.igem.org/Team:Vanderbilt/Team/Members"><font color="#7e1d2e">Members</font></a></li>
+                <li><a href="http://2015.igem.org/Team:Vanderbilt/Team/Attributes"><font color="#7e1d2e">Attributes</font></a></li>
+                <li><a href="http://2015.igem.org/Team:Vanderbilt/Team/Sponsors"><font color="#7e1d2e">Sponsors</font></a></li>
+                    </ul>
+                </li>
+                <li id="project" onmouseover="mouseOver()" onmouseout="mouseOut()" class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Project">
+                        <span class="helper"><img id="flask" src="http://2015.igem.org/wiki/images/a/af/Vanderbilt_2015_flask.png" height="36" width="30" alt="project"></img></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Project</li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Background"><font color="#7e1d2e">Background</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Sequence"><font color="#7e1d2e">Sequence</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Circuit"><font color="#7e1d2e">Circuit</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Organism"><font color="#7e1d2e">Organism</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Nanopore"><font color="#7e1d2e">Nanopore</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Achievements"><font color="#7e1d2e">Achievements</font></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Parts"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Parts</li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Parts/Part_Collection"><font color="#7e1d2e">Part Collection</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Parts/Optimized_RFPs"><font color="#7e1d2e">Optimized RFPs</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Parts/Visualizing_Evolution"><font color="#7e1d2e">Visualizing Evolution</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Parts/Repair Enzymes"><font color="#7e1d2e">Repair Enzymes</font></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Notebook"><span class="glyphicon glyphicon-book" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Notebook</li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/May"><font color="#7e1d2e">May</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/June"><font color="#7e1d2e">June</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/July"><font color="#7e1d2e">July</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/August"><font color="#7e1d2e">August</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/September"><font color="#970821">September</font></a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Practices"><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Practices</li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Safety"><font color="#7e1d2e">Safety</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Collaborations"><font color="#7e1d2e">Collaborations</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Applications"><font color="#7e1d2e">Applications</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Interlab"><font color="#7e1d2e">Inter-Lab Collaborations</font></a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Software"><span class="glyphicon glyphicon-cd" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Software</li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Software/Development"><font color="#7e1d2e">Development</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Software/User_Guide"><font color="#7e1d2e">User Guide</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Software/Stats"><font color="#7e1d2e">Statistics</font></a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Modelling"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Modeling</li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Modeling/Sequences"><font color="#7e1d2e">Sequences</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Modeling/Circuits"><font color="#7e1d2e">Circuits</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Modeling/Populations"><font color="#7e1d2e">Populations</font></a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+<script>
+var flask = document.getElementById("flask");
+function mouseOver() {
+    flask.src="http://2015.igem.org/wiki/images/6/6b/Vanderbilt_2015_flask_dark.png";
+}
+
+function mouseOut() {
+    flask.src="http://2015.igem.org/wiki/images/a/af/Vanderbilt_2015_flask.png";
+}
+</script>
+
+<style>
+@media(min-width:768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+</style>
+
+
+
+
+<script>
+document.getElementById("header_text").innerHTML = "Repair Enzymes";
+</script>
+
+
+<style>
+
+html, body {
+  height: 100%;
+  background-color: #3e0812;
+}
+
+body {
+  position: relative;
+  height: 100%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  background-color: #3e0812;
+  left: 0;
+}
+
+.row-height {
+  display: table;
+  table-layout: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+@keyframes dnaFadeInOut {
+  0%   {opacity:1;}
+  17%  {opacity:1;}
+  25%  {opacity:0;}
+  92%  {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes dnaFadeInOut {
+  0%   {opacity:1;}
+  17%  {opacity:1;}
+  25%  {opacity:0;}
+  92%  {opacity:0;}
+  100% {opacity:1;}
+}
+@-moz-keyframes dnaFadeInOut {
+  0%   {opacity:1;}
+  17%  {opacity:1;}
+  25%  {opacity:0;}
+  92%  {opacity:0;}
+  100% {opacity:1;}
+}
+@-webkit-keyframes dnaFadeInOut {
+  0%   {opacity:1;}
+  17%  {opacity:1;}
+  25%  {opacity:0;}
+  92%  {opacity:0;}
+  100% {opacity:1;}
+}
+
+.dnaStrand img:nth-of-type(1) {
+  -webkit-animation-delay: 6s;
+  -moz-animation-delay: 6s;
+  -o-animation-delay: 6s;
+  animation-delay: 6s;
+}
+.dnaStrand img:nth-of-type(2) {
+  -webkit-animation-delay: 4s;
+  -moz-animation-delay: 4s;
+  -o-animation-delay: 4s;
+  animation-delay: 4s;
+}
+.dnaStrand img:nth-of-type(3) {
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  -o-animation-delay: 2s;
+  animation-delay: 2s;
+}
+.dnaStrand img:nth-of-type(4) {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay: 0;
+  animation-delay: 0;
+}
+
+.dnaStrand {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.dnaStrand img {
+  position: absolute;
+  height: 95%;
+  width: 95%;
+  vertical-align: top;
+}
+  
+.dnaStrand img {
+  -webkit-animation-name: dnaFadeInOut;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration: 8s;
+
+  -moz-animation-name: dnaFadeInOut;
+  -moz-animation-timing-function: ease-in-out;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-duration: 8s;
+
+  -o-animation-name: dnaFadeInOut;
+  -o-animation-timing-function: ease-in-out;
+  -o-animation-iteration-count: infinite;
+  -o-animation-duration: 8s;
+
+  animation-name: dnaFadeInOut;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 8s;
+}
+
+
+.grid {
+  background-color: #5f212c;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .element-item ---- */
+
+/* 6 columns, percentage width */
+.grid-item,
+.grid-sizer {
+  width: 16.666%;
+  margin: 0px;
+}
+
+.grid-item {
+  float: left;
+  background: #0D8;
+  border: 10px solid #44111a;
+  width: 33.333%;
+  margin: 0px;
+  text-align: center;
+}
+
+.grid-item--widthFull { width:100%; }
+
+.grid-item img {
+  display: block;
+  max-width: 100%;
+  margin: 0px;
+}
+
+.grid-textbox-top {
+  border-left: 0px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 5px solid #44111a;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
+.grid-textbox-mid {
+  border-right: 0px;
+  border-left: 0px;
+  border-top: 5px solid #44111a;
+  border-bottom: 5px solid #44111a;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
+.grid-textbox-bot {
+  border-right: 0px;
+  border-left: 0px;
+  border-top: 5px solid #44111a;
+  border-bottom: 0px;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+
+</style>
+
+<div class="row" style="height: 100%; min-height: 100%;">
+<div class="row-height">
+<div class="col-lg-1 hidden-sm" style="height:100%" id="dnaStrand1">
+  <br>
+  <div class="dnaStrand" alt="dna strand">
+  <img src="http://2015.igem.org/wiki/images/a/a6/Vanderbilt_2015_dna_strand_1.png"/>
+  <img src="http://2015.igem.org/wiki/images/d/d1/Vanderbilt_2015_dna_strand_2.png"/>
+  <img src="http://2015.igem.org/wiki/images/2/2a/Vanderbilt_2015_dna_strand_3.png"/>
+  <img src="http://2015.igem.org/wiki/images/f/f4/Vanderbilt_2015_dna_strand_4.png"/>
+  </div>
+</div>
+
+<div class="col-md-10" style="background-color: #44111a; height: 100%;">
+  <p>K1673201	T4 Pyrimidine Dimer Glycosylase (Mutation Optimized)
+K1673202	Formamidopyrimidine DNA glycosylase (Mutation Optimized)
+K1673203	S1 Nuclease (Overall Mutation Optimized)
+K1673204	T7 Endonuclase (Mutation Optimized)
+K1673205	T7 Endonuclease (Homology Optimized )
+K1673213	IPTG Promoter Mutation Optimized S1 Nuclease
+K1673214	IPTG Promoter Mutation Optimized T7 Endonuclease
+K1673223	T7 Promoter Mutation Optimized S1 Nuclease
+K1673224	T7 Promoter Mutation Optimized T7 Nuclease
+</p>  
+
+<!-- footer -->
+<div class="row" style="margin:0; border: 0; width: 100%;">
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Team</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Team/About"><font color="#9e515e">About</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Team/Members"><font color="#9e515e">Members</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Team/Attributes"><font color="#9e515e">Attributes</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Team/Sponsors"><font color="#9e515e">Sponsors</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Project</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Background"><font color="#9e515e">Background</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Sequence"><font color="#9e515e">Sequence</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Circuit"><font color="#9e515e">Circuit</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Organism"><font color="#9e515e">Organism</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Nanopore"><font color="#9e515e">Nanopore</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Achievements"><font color="#9e515e">Achievements</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Parts</font></h3>
+
+    <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Part_Collection"><font color="#9e515e">Part Collection</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Optimized_RFPs"><font color="#9e515e">Optimized RFPs</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Visualizing_Evolution"><font color="#9e515e">Visualizing Evolution</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Repair Enzymes"><font color="#9e515e">Repair Enzymes</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Notebook</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/May"><font color="#9e515e">May</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/June"><font color="#9e515e">June</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/July"><font color="#9e515e">July</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/August"><font color="#9e515e">August</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/September"><font color="#9e515e">September</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Practices</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Safety"><font color="#9e515e">Safety</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Collaborations"><font color="#9e515e">Collaborations</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Real_World_Applications"><font color="#9e515e">Applications</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Interlab"><font color="#9e515e">Interlab</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Software</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Software/Development"><font color="#9e515e">Development</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Software/User_Guide"><font color="#9e515e">User Guide</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Software/Stats"><font color="#9e515e">Statistics</font></a>
+    <br>
+  </div>
+</div>
+  <br>
+<!-- /footer -->
+
+</div>
+
+<div class="col-lg-1 hidden-sm" style="height:100%;" id="dnaStrand2">
+  <br>
+  <div class="dnaStrand" alt="dna strand">
+  <img src="http://2015.igem.org/wiki/images/a/a6/Vanderbilt_2015_dna_strand_1.png"/>
+  <img src="http://2015.igem.org/wiki/images/d/d1/Vanderbilt_2015_dna_strand_2.png"/>
+  <img src="http://2015.igem.org/wiki/images/2/2a/Vanderbilt_2015_dna_strand_3.png"/>
+  <img src="http://2015.igem.org/wiki/images/f/f4/Vanderbilt_2015_dna_strand_4.png"/>
+  </div>
+</div>
+
+</div>
+</div>
+
+
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.017 seconds
+Real time usage: 0.020 seconds
+Preprocessor visited node count: 17/1000000
+Preprocessor generated node count: 84/1000000
+Post‐expand include size: 82/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key 2015_igem_org:pcache:idhash:31975-0!*!*!*!*!*!* and timestamp 20150921223018 and revision id 398389
+ -->
+</div>			<div class="visualClear"></div>
+		    </div>
+		</div>
+    </div>
+	</body>
+</html>

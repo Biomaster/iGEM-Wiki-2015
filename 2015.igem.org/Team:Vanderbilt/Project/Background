@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Team:Vanderbilt/Project/Background - 2015.igem.org</title>
+<meta name="generator" content="MediaWiki 1.24.1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="2015.igem.org (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://2015.igem.org/wiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/Team:Vanderbilt/Project/Background" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="2015.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://2015.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.igem.styles&amp;only=styles&amp;skin=igem&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/Igem/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/Igem/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: 2015_igem_org:resourceloader:filter:minify-css:7:875d2068ffef0b9ce1dbab8400ce2379 */</style>
+<script src="http://2015.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=igem&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Team:Vanderbilt/Project/Background","wgTitle":"Team:Vanderbilt/Project/Background","wgCurRevisionId":402418,"wgRevisionId":402418,"wgArticleId":31964,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Team:Vanderbilt/Project/Background","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"hidesig":true,"preview":false,"previewDialog":false,"publish":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"igem","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: 2015_igem_org:resourceloader:filter:minify-js:7:c2a6e0f393444edcfe542f485c3692c2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Vanderbilt_Project_Background skin-igem action-view">
+
+        <script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+
+    <div id='globalWrapper'>
+        <div id='top_menu_under' class='noprint'></div>
+        <div id='top_menu_14' class='noprint'>Loading menubar.....</div> <!-- Will be replaced with the jQuery.load -->
+		<script>jQuery('#top_menu_14').load('http://2015.igem.org/cgi/top_menu_14/menubar_reply.cgi',
+						    {   t:"Team%3AVanderbilt%2FProject%2FBackground",
+							a:"View+%2FTeam%3AVanderbilt%2FProject%2FBackground++View source+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3AVanderbilt%2FProject%2FBackground%26action%3Dedit++History+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3AVanderbilt%2FProject%2FBackground%26action%3Dhistory++Page+%2FTeam%3AVanderbilt%2FProject%2FBackground++Discussion+%2Fwiki%2Findex.php%3Ftitle%3DTalk%3ATeam%3AVanderbilt%2FProject%2FBackground%26action%3Dedit%26redlink%3D1++" });
+		
+		</script>
+		<div id="content" class="mw-body" role="main">
+		    <a id="top"></a>
+		    <h1 id="firstHeading" class="firstHeading">
+		        <span dir="auto">Team:Vanderbilt/Project/Background</span>
+		    </h1>
+		    <div id="bodyContent">
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>
+
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1 user-scalable=no">
+    <title>Vanderbilt iGEM 2015</title>
+
+	<!-- latest compiled and minified CSS -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"></link>
+	
+	<!-- jQuery (bootstrap's javscript plugins need) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	
+	<!-- latest compiled and minified JavaScript -->
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	
+	<!-- Normalize JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css"></script>
+	
+	<!-- Scrolling navigation CSS -->
+        <link href="css/scrolling-nav.css" rel="stylesheet">
+	
+        <!-- Scrolling Nav JavaScript -->
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/scrolling-nav.js"></script>
+
+        <!-- isotope -->
+        <script src="/path/to/isotope.pkgd.min.js"></script>
+	
+	<!-- get the Google font -->
+	<link href='https://fonts.googleapis.com/css?family=Crimson+Text:700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=UnifrakturMaguntia' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=MedievalSharp' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Uncial+Antiqua' rel='stylesheet' type='text/css'>
+
+	<!-- Custom CSS -->
+	<link href="http://2015.igem.org/Template:Vanderbilt_Formatting?action=raw&amp;ctype=text/css" rel="stylesheet">	
+
+        <!-- DNA strand animation -->
+        <script href="http://2015.igem.org/Template:Vanderbilt/dna_strand.js?action=raw&amp;ctype=text/javascript"></script>
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="http://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="http://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+        <script>
+          $(document).ready(function() {
+              var grid = document.querySelector('.grid');
+              var iso;
+
+              imagesLoaded( grid, function() {
+                  // init Isotope after all images have loaded
+                  iso = new Isotope( grid, {
+                  itemSelector: '.grid-item',
+                  percentPosition: true,
+                  masonry: {
+                      columnWidth: '.grid-sizer'
+                  }
+                  });
+              });
+          });
+
+        </script>
+
+<style>
+#page-top, .intro-text {
+    width: 100%;
+    margin: 0px;
+}
+
+.grid {
+  background-color: #5f212c;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.span-text
+{
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 100%; /* <-- adjust this */
+  margin: 5px;
+}
+
+.intro-heading {
+    text-shadow:
+    -1.5px -1.5px 0 #565656,
+    1.5px -1.5px 0 #565656,
+    -1.5px 1.5px 0 #565656,
+    1.5px 1.5px 0 #565656;
+}
+</style>
+</head>
+
+
+  <!-- Header -->
+<header id="header" class="row">	
+	<div class="container">
+		<div class="intro-text">
+			<div class="intro-heading" style="font-style:normal; font-family:Uncial Antiqua; font-size: 2em;">
+                          <font id="header_text" color="#000000">Demons in the Code</font>
+                        </div>
+                        <img id="vandy_logo" src="http://2015.igem.org/wiki/images/5/52/Vanderbilt_2015_igemlogo_visibility.png"
+                             alt="vanderbilt's igem logo" width="30%"/>
+		</div>
+	</div>
+</header>   
+
+<!-- MAIN CONTAINER -->
+<div id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" class="index container">
+
+<script>
+
+if(window.location.href !== "http://2015.igem.org/Team:Vanderbilt") {
+    document.getElementById("header").style.backgroundImage =    "url('http://2015.igem.org/wiki/images/9/9b/Vanderbilt_2015_plain_sequence_background.png')";
+}
+</script>
+
+
+<style>
+@media (min-width: 979px) {
+#header_text {
+  font-size: 2em;
+}
+.intro-heading {
+  margin-top: -10%;
+}
+#vandy_logo {
+width: 15%;
+}
+}
+</style>
+
+
+
+<style>
+.btn {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+background-color: #3e0812;
+color: #9e515e;
+border: none;
+}
+a:link {
+    text-decoration: none;
+color: #9e515e;
+}
+a:visited {
+    text-decoration: none;
+color: #9e515e;
+}
+.chosen {
+background-color: #220006;
+color: #3e0812;
+}
+
+</style>
+
+<div id="breadcrumb_container" class="container" style="position:fixed; top:88px; z-index:2;">
+<div class="row">
+        <div class="btn-group btn-breadcrumb">
+            <a href="#" class="btn btn-default"><img src="http://2015.igem.org/wiki/images/e/ef/Vanderbilt_2015_flask_red_unselected.png" alt="project" height="36" width="32"/></a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Project/Background" class="btn btn-default chosen">Background</a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Project/Sequence" class="btn btn-default">Sequence</a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Project/Circuit" class="btn btn-default">Circuit</a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Project/Organism" class="btn btn-default">Organism</a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Project/Nanopore" class="btn btn-default">Nanopore</a>
+            <a href="http://2015.igem.org/Team:Vanderbilt/Project/Achievements" class="btn btn-default">Achievements</a>
+        </div>
+</div>
+</div>
+
+
+
+<style>
+
+    .dropdown-header {
+        font-size: 150%;
+        margin: 0;
+        border: 0;
+    }
+
+    .divider {
+        margin: 0;
+        border: 0;
+    }
+
+    .no-space {
+        margin-top: 5%;
+    }
+
+    img {
+        vertical-align: top;
+    }
+
+
+
+</style>
+
+
+<!-- the navigation bar -->
+<nav class="navbar navbar-fixed-top navbar-default" role="navigation" style="background-color: #3e0812; padding-top: 14px;">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bottom_menu">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="http://2015.igem.org">
+                <img src="http://2015.igem.org/wiki/images/0/05/2015_vanderbilt_igem_logo.png" alt="iGem Logo">
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bottom_menu">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="http://2015.igem.org/Team:Vanderbilt">
+                        <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+                    </a>
+                </li>
+                <li class="dropdown">
+                    <a data-toggle="dropdown"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                <li class="dropdown-header no-space">Team</li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://2015.igem.org/Team:Vanderbilt/Team/About"><font color="#7e1d2e">About</font></a></li>
+                <li><a href="http://2015.igem.org/Team:Vanderbilt/Team/Members"><font color="#7e1d2e">Members</font></a></li>
+                <li><a href="http://2015.igem.org/Team:Vanderbilt/Team/Attributes"><font color="#7e1d2e">Attributes</font></a></li>
+                <li><a href="http://2015.igem.org/Team:Vanderbilt/Team/Sponsors"><font color="#7e1d2e">Sponsors</font></a></li>
+                    </ul>
+                </li>
+                <li id="project" onmouseover="mouseOver()" onmouseout="mouseOut()" class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Project">
+                        <span class="helper"><img id="flask" src="http://2015.igem.org/wiki/images/a/af/Vanderbilt_2015_flask.png" height="36" width="30" alt="project"></img></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Project</li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Background"><font color="#7e1d2e">Background</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Sequence"><font color="#7e1d2e">Sequence</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Circuit"><font color="#7e1d2e">Circuit</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Organism"><font color="#7e1d2e">Organism</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Nanopore"><font color="#7e1d2e">Nanopore</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Project/Achievements"><font color="#7e1d2e">Achievements</font></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Parts"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Parts</li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Parts/Part_Collection"><font color="#7e1d2e">Part Collection</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Parts/Optimized_RFPs"><font color="#7e1d2e">Optimized RFPs</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Parts/Visualizing_Evolution"><font color="#7e1d2e">Visualizing Evolution</font></a></li>
+                        <li><a href="http://2015.igem.org/Team:Vanderbilt/Parts/Repair Enzymes"><font color="#7e1d2e">Repair Enzymes</font></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Notebook"><span class="glyphicon glyphicon-book" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Notebook</li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/May"><font color="#7e1d2e">May</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/June"><font color="#7e1d2e">June</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/July"><font color="#7e1d2e">July</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/August"><font color="#7e1d2e">August</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/September"><font color="#970821">September</font></a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Practices"><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Practices</li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Safety"><font color="#7e1d2e">Safety</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Collaborations"><font color="#7e1d2e">Collaborations</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Applications"><font color="#7e1d2e">Applications</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Interlab"><font color="#7e1d2e">Inter-Lab Collaborations</font></a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Software"><span class="glyphicon glyphicon-cd" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Software</li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Software/Development"><font color="#7e1d2e">Development</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Software/User_Guide"><font color="#7e1d2e">User Guide</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Software/Stats"><font color="#7e1d2e">Statistics</font></a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://2015.igem.org/Team:Vanderbilt/Modelling"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header no-space">Modeling</li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Modeling/Sequences"><font color="#7e1d2e">Sequences</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Modeling/Circuits"><font color="#7e1d2e">Circuits</font></a>
+                        </li>
+                        <li>
+                            <a href="http://2015.igem.org/Team:Vanderbilt/Modeling/Populations"><font color="#7e1d2e">Populations</font></a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+<script>
+var flask = document.getElementById("flask");
+function mouseOver() {
+    flask.src="http://2015.igem.org/wiki/images/6/6b/Vanderbilt_2015_flask_dark.png";
+}
+
+function mouseOut() {
+    flask.src="http://2015.igem.org/wiki/images/a/af/Vanderbilt_2015_flask.png";
+}
+</script>
+
+<style>
+@media(min-width:768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+</style>
+
+
+
+
+<script>
+document.getElementById("header_text").innerHTML = "Background";
+</script>
+
+
+<style>
+
+html, body {
+  height: 100%;
+  background-color: #3e0812;
+}
+
+body {
+  position: relative;
+  height: 100%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  background-color: #3e0812;
+  left: 0;
+}
+
+.row-height {
+  display: table;
+  table-layout: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+@keyframes dnaFadeInOut {
+  0%   {opacity:1;}
+  17%  {opacity:1;}
+  25%  {opacity:0;}
+  92%  {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes dnaFadeInOut {
+  0%   {opacity:1;}
+  17%  {opacity:1;}
+  25%  {opacity:0;}
+  92%  {opacity:0;}
+  100% {opacity:1;}
+}
+@-moz-keyframes dnaFadeInOut {
+  0%   {opacity:1;}
+  17%  {opacity:1;}
+  25%  {opacity:0;}
+  92%  {opacity:0;}
+  100% {opacity:1;}
+}
+@-webkit-keyframes dnaFadeInOut {
+  0%   {opacity:1;}
+  17%  {opacity:1;}
+  25%  {opacity:0;}
+  92%  {opacity:0;}
+  100% {opacity:1;}
+}
+
+.dnaStrand img:nth-of-type(1) {
+  -webkit-animation-delay: 6s;
+  -moz-animation-delay: 6s;
+  -o-animation-delay: 6s;
+  animation-delay: 6s;
+}
+.dnaStrand img:nth-of-type(2) {
+  -webkit-animation-delay: 4s;
+  -moz-animation-delay: 4s;
+  -o-animation-delay: 4s;
+  animation-delay: 4s;
+}
+.dnaStrand img:nth-of-type(3) {
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  -o-animation-delay: 2s;
+  animation-delay: 2s;
+}
+.dnaStrand img:nth-of-type(4) {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay: 0;
+  animation-delay: 0;
+}
+
+.dnaStrand {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.dnaStrand img {
+  position: absolute;
+  height: 95%;
+  width: 95%;
+  vertical-align: top;
+}
+  
+.dnaStrand img {
+  -webkit-animation-name: dnaFadeInOut;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration: 8s;
+
+  -moz-animation-name: dnaFadeInOut;
+  -moz-animation-timing-function: ease-in-out;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-duration: 8s;
+
+  -o-animation-name: dnaFadeInOut;
+  -o-animation-timing-function: ease-in-out;
+  -o-animation-iteration-count: infinite;
+  -o-animation-duration: 8s;
+
+  animation-name: dnaFadeInOut;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 8s;
+}
+
+
+.grid {
+  background-color: #5f212c;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .element-item ---- */
+
+/* 6 columns, percentage width */
+.grid-item,
+.grid-sizer {
+  width: 16.666%;
+  margin: 0px;
+}
+
+.grid-item {
+  float: left;
+  background: #0D8;
+  border: 10px solid #44111a;
+  width: 33.333%;
+  margin: 0px;
+  text-align: center;
+}
+
+.grid-item--widthFull { width:100%; }
+
+.grid-item img {
+  display: block;
+  max-width: 100%;
+  margin: 0px;
+}
+
+.grid-textbox-top {
+  border-left: 0px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 5px solid #44111a;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
+.grid-textbox-mid {
+  border-right: 0px;
+  border-left: 0px;
+  border-top: 5px solid #44111a;
+  border-bottom: 5px solid #44111a;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
+.grid-textbox-bot {
+  border-right: 0px;
+  border-left: 0px;
+  border-top: 5px solid #44111a;
+  border-bottom: 0px;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+
+</style>
+
+<div class="row" style="height: 100%; min-height: 100%;">
+<div class="row-height">
+<div class="col-lg-1 hidden-sm" style="height:100%" id="dnaStrand1">
+  <br>
+  <div class="dnaStrand" alt="dna strand">
+  <img src="http://2015.igem.org/wiki/images/a/a6/Vanderbilt_2015_dna_strand_1.png"/>
+  <img src="http://2015.igem.org/wiki/images/d/d1/Vanderbilt_2015_dna_strand_2.png"/>
+  <img src="http://2015.igem.org/wiki/images/2/2a/Vanderbilt_2015_dna_strand_3.png"/>
+  <img src="http://2015.igem.org/wiki/images/f/f4/Vanderbilt_2015_dna_strand_4.png"/>
+  </div>
+</div>
+
+<div class="col-md-10" style="background-color: #44111a; height: 100%;">
+  <p>
+Every system that is genetically engineered harbors a potentially fatal vulnerability. The source of life’s great diversity – spontaneous mutation – is for the synthetic biologist the source of constant apprehension and risk. The relentlessness of genetic mutation has discouraged attempts to treat it as anything other than unavoidable fact of tinkering with biology. Whether in a multifaceted genetic circuit or a simple protein expression platform, mutation is inevitable, and once it disrupts function, the organism will no longer experience the burden of transgene expression, causing the mutant to outcompete whatever has the intended sequence. Evolution and mutation work hand in hand to select against the maintenance of synthetic DNA sequences. Indeed, the mantra has been that time, in the form of mutation and evolution, will always find a way to erode and ultimately destroy everything that an engineer builds, no matter how ingeniously it may designed.
+</p>
+
+<p>
+This year, here at Vanderbilt iGEM we are fighting back. When combined with synthetic DNA technology, our process becomes a simple and reliable optimization that is universally applicable to any coding gene being expressed in any organism. This a paradigm shift from the previous optimization standard in the field, Codon Adaptability Index (CAI), which was recently found to have no correlation with protein expression (r2=0.02)(cite something here). We are proposing a novel approach based on rationally designed genomic architectures that promises to offer synthetic biologists unprecedented control over the evolutionary stability of their creations. Our three-tiered approach addresses this issue from several different perspectives: the DNA sequences themselves, the genetic network they are part of, and the host organism for the recombinant genes.
+</p>
+
+<p>
+While any single engineered change to reduce mutation may still fail, when our innovative approaches to modulating evolutionary stability are taken in combination, they offer an unprecedented hope for taming evolutionary entropy. More than a victory for synthetic biology, we prove that through rational design principles- exactly what mutation most virulently tries to uproot- and with enough clever innovations, it is possible to defend against what seemed like an inevitability of nature. Score one for engineering.
+</p>
+
+<p>
+Importance of Genetic Stability
+The implications of reducing evolutionary potential are far-reaching. All of synthetic biology is impacted by the instability of genes, but there are several areas where it is of particular concern, namely manufacturing, medicine, and biosafety.
+</p>
+
+<p>
+In terms of production, bioreactors are especially vulnerable to gene mutation due to the metabolic stress exhibited by the cells in such an environment. The constant push for maximum production gives an evolutionary advantage to any cells that spontaneously mutated to produce less or no product. An entire incubator could be overtaken by these mutated cells leading to a loss in money, time, and resources. In a medical context where pharmaceutical agents are produced, a mutation can have even worse consequences of creating a deleterious drug that would be harmful, such as antibody-producing strain of cells that undergoes a spontaneous mutation leading to unintended interactions. Furthermore, on a cellular level, changes in a genome leading to differing phenotypes is a problem encountered in breweries. Brewers often keep frozen stocks of particular cell lines in order to not keep using the same population which can mutate over the course of many brewing cycles.
+</p>
+
+<p>
+The advent of gene therapy which allows insertion of genes directly into living cells poses parallel difficulties in terms of ensuring continued function. The cell will not only try to get rid of the foreign DNA because of its associated metabolic load, the sequence will be prone to mutations that either cause a nonfunctional or dysfunctional protein product.
+</p>
+
+<p>
+Similarly, genetically modified organisms that are introduced to the environment have the possibility to escape their intended area as well as transfer their genes to other organisms. To combat this issue, many have developed sophisticated killswitch circuits, but what has not been addressed is the degradation of this safety mechanism which is subject to more evolutionary pressure than other components due to its lethality. Both the circuit and the genes composing it are subject to mutation resulting in inactivation and the spread of GMO. (cite Haynes)
+</p>
+
+<p>
+All of these issues are almost entirely due to the effect of metabolic load and selective pressures on genes which cause them to either be inactivated or deleted. It has been demonstrated that increasing the metabolic load of the cell decreases its rate of replication which is directly correlated to its Darwinian fitness. Cells that have to produce are less adapted to their environment and are more likely to be outcompeted in a heterogeneous population where other cells are not under the same load. (cite Ellis) Moreover, the load of translating active proteins that create their own secondary metabolites compounds the stress on the cell leading to further decreased fitness.
+</p>
+
+<p>
+The metabolic load itself can eliminate the cells ability to survive, but there is an even greater danger posed by increasing cellular load which is stress-induced mutagenesis. The stress of augmented rate of protein production strains the cell into initiating a global response system that changes gene expression and thereby cell metabolism. This includes pathways that increase mutation potential by up-regulating error prone DNA polymerases and down-regulating error correcting enzymes as well as encouraging the movement of insertion sequences. This mutator state under stressful conditions from increased metabolic load is important for adaptive evolution but is counterproductive to the goals of synthetic biologists attempting for stable expression. (cite Foster)
+</p>
+
+<div id="outline-container-orgheadline1" class="outline-3">
+<h3 id="orgheadline1"><span class="section-number-3">0.1</span> Sequence</h3>
+<div class="outline-text-3" id="text-0-1">
+<p>
+At the heart of our strategy is an advanced computational algorithm that integrates decade’s worth of scientific data in order to identify and correct the highly-mutation prone ‘hotspots’ that lurk in every gene. Our strategy has a strong foundation in a rich literature from the fields of cancer biology and others that have annotated and characterized mutation hotspots for almost every conceivable source of mutagen, from ultraviolet radiation to recombination to polymerase errors.
+</p>
+
+<p>
+Our project first demonstrates the power of this rational synthetic gene design strategy by employing several canonical as well as highly original protocols for assaying DNA damage and its effects on the stability of artificial genetic elements. From these techniques, we can quantify everything from the selective subset of mutation types occurring on an in vitro level, up to how mutational loss of function translates at the scale of populations of genetically modified organisms.
+</p>
+
+<p>
+To complement our work, we have harnessed our algorithm for use in what is becoming one of the most important tools for engineering biological molecules: directed evolution experiments. Not only can our engineered changes increase evolutionary stability in applications such as transgenic bioreactors, but it can also construct gene sequences that are more prone to mutate, thus accelerating studies into how to use evolutionary selection to produce tailored functional modifications to proteins.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgheadline2" class="outline-3">
+<h3 id="orgheadline2"><span class="section-number-3">0.2</span> Circuit</h3>
+<div class="outline-text-3" id="text-0-2">
+<p>
+Genetic circuits have become the mainstays of synbio as the machinery through which biological processes are executed and controlled. They are crucial in many regulatory networks such as feedback loops and killswitches and are used as simulated logic gates to control cell actions. To this end, it is of great importance that these circuits remain stable however current design guidelines used by the synthetic biology community are especially prone to mutation. There are four major factors of gene circuits which can increase or decrease their evolutionary potential.
+</p>
+
+<p>
+One method of improving evolutionary stability is the inclusion of a bidirectional promoter (BDP) which concurrently transcribes two monocistronic genes. Currently, prokaryotic promoters are particularly susceptible to mutation however a BDP has the advantage of self-protection by overlapping essential promoter sequences on both strands of the DNA. Not only is the BDP a more robust promoter, having the protein of interest expressed at the same time as antibiotic resistance or an essential endogenous gene guarantees that any mutation in the promoter would eliminate the cell from the population. Initial research indicates that the inclusion of a BDP doubles the evolutionary half-life. (cite Yang, Herbert Sauro)
+</p>
+
+<p>
+Another way of decreasing the rate of mutation is to lessen the metabolic load on the cell. This can be easily done by incorporating weak promoters and ribosome binding sites throughout the circuit lessening the rate of protein expression. Ensuring rapid degradation of protein product also reduces metabolic load although the mechanism by which this is done (degradation tag) actually increases the load by using up cellular proteases. Additionally, plasmid copy-number can have a large influence on metabolic load meaning medium- to low-copy number plasmids are preferable for circuit stability. Studies show that reducing expression 4-fold can increase the evolutionary half-life of the circuit 17-fold. (cite Sleight, Herbert Sauro)
+</p>
+
+<p>
+Following the same reasoning as above, replacing constitutive promoters with inducible ones substantially decreases the stress on the cell. A constitutive promoter constantly engages the cell transcriptional and translational machinery leading to unsustainable protein production. And inducible promoter has the advantage of only increasing the metabolic load for a limited time that is tightly controlled. Empirical research demonstrated that after 60 generations, a circuit under the control of a constitutive promoter completely lost its function but the same circuit under an inducible promoter still had 25% of its original expression. (cite Sleight, Herbert Sauro)
+</p>
+
+<p>
+One of the most crucial things that can easily debilitate a circuit is sequence homology. Homology with endogenous genomic areas, intra-circuit homology of various components, and even among BioBrick scar sites left over from assembly can all have a substantial harmful impact on the gene network. A common practice is to include a double terminator (B0015) at the end of each gene in a circuit, however this creates a lot of homology. So much so that in fact the evolutionary half-life of such circuits is around 7 generations, which is less than 24 hours of growth. Complete elimination of terminator homology gave the identical circuit of an evolutionary half-life of 125 generations, an almost 18-fold change.(cite Sleight, Herbert Sauro)
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgheadline3" class="outline-3">
+<h3 id="orgheadline3"><span class="section-number-3">0.3</span> Organism</h3>
+<div class="outline-text-3" id="text-0-3">
+<p>
+We have investigated ways to build new genetically modified strains that exhibit greatly increased resistance to mutation. Combining our sequence-based strategies with the introduction of exogenous genes and removal of endogenous genes has enabled us to produce an expression platform for synthetic genes that not only has enhanced DNA repair mechanisms, but also has an entire artificial pathway introduced for the elimination of mutant strains from a population.
+</p>
+
+<p>
+The pKIKO (Knock-In-Knock-Out) system allows for the simultaneous replacement of genomic DNA and integration of foreign DNA. (cite Vickers) This is being used by us to integrate several repair enzymes that will maintain the fidelity of genomic DNA while removing error-prone polymerases endogenous to the cell. Here are a few enzyme that are included for the mutation optimization of the cell:
+</p>
+
+<ul class="org-ul">
+<li>T4 PDG (T4 Endonuclease V) is an enzyme which specifically recognizes UV induced cyclobutane pyrimidine photodimers and creates a nick in the DNA strand through its glycosylase and APlyase domains. This enzyme would be able to nick DNA after UV exposure and direct intrinsic cellular machinery to repair it by eliminating the lesion. Introduction of T4 PDG to the cell would increase the cell’s resistance to UV irradiation and lessen the rate of mutation. (cite de Riel)</li>
+
+<li>FPG is an enzyme which finds 8-oxoguanine base pairs, which are the result of oxidative damage, and excises them. Unlike the previous enzyme, FPG completely removes the site by cutting 5’ and 3’ to the base pair. This generates an apurinic site that can then be easily filled through Watson-Crick base pairing by DNA polymerases. Introduction of FPG to the cell would allow the cell to effectively repair oxidative damage and reduce the rate of mutation due to replication fork stalling. (cite Guillet)</li>
+
+<li>T7 Endonuclease I is an enzyme which cleaves DNA creating a double-stranded break within 3 basepairs 5’ of the mismatched DNA. In addition to heteroduplexes, the enzyme also cuts cruciform structures, Holliday junctions, and to a lesser extent, nicked dsDNA. Introduction of this enzyme would largely prevent DNA replication errors and increase the sequence of fidelity making the cell more resistant to spontaneous mutations.</li>
+
+<li>Nuclease S1 is an enzyme that it primarily cleaves nicked dsDNA as well as DNA that has gaps, mismatches, or loops, similarly to T7. This enzyme could be introduced to the cell and in conjunction with the previous three which generate nicks, would ensure a complete double stranded break at every damaged location.</li>
+
+<li>Other enzymes such as AlkB for removal of methyl groups and MGMT for repairing alkylated basepairs are just a few examples of other Base Excision Repair enzymes. The possibilities are endless for the combination of these enzymes in a cell to minimize evolutionary potential.</li>
+</ul>
+
+<p>
+In addition to simply adding in the enzymes by themselves or in some sort of combination, we have devised a system for a more precise repair mechanism. In the case of T4 PDG, the enzyme could be put under the control of an umuDC promoter which is UV dependent. This would allow the cell to have a specific response to irradiation which is better than the constitutively expressing the protein for reasons aforementioned, mainly the increase in metabolic load. A similar paradigm could be developed for other error correction enzymes and promoters.
+</p>
+
+<p>
+Finally, a prokaryote that employs all these enzymes, in addition to the mechanism of on-homologous end joining knocked out, has the opportunity to be the ultimate killswitch. This “Incorruptible Cell” would employ nick-producing enzymes to identify mutated base pairs and generate lethal double-stranded breaks there. This model would prevent any cell with any mutation surviving due to the lethality of an irreparable DNA break in an organism with a circular genome.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgheadline4" class="outline-2">
+<h2 id="orgheadline4"><span class="section-number-2">1</span> VERT</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Engineering organisms with recombinant DNA puts strain on the metabolism of the organism which can reduce the cell’s fitness. This can be quantified by using VERT (Visualizing Evolution in Real Time), a technique that uses three different fluorescent proteins to investigate the stability dynamics created by the transcriptional interactions of these three genes. In order to create a competition differential, randomized promoters, ribosome binding sites (RBS), and terminators were included to create several unique circuits which would lead to certain proteins having transcriptional and translational advantages. Over time, each circuit has the potential to reach a particular equilibrium point of protein expression giving the cell population a unique color. See image below.
+</p>
+
+<p>
+We harnessed this technique to empirically demonstrate that our circuit optimization algorithms increase circuit stability. In the context of VERT, this means that the cell population would maintain the same rate of expression for all three fluorescent proteins rather than have them vary with respect to one another over time. This was accomplished by optimizing the circuit three different ways. We avoided using strong RBS, replacing them with medium-strength RBS since decreased expression levels have been shown to have significantly higher evolutionary stability. The homology of the circuit was also reduced to minimize the similarities among the promoters, RBS, terminators as well as the fluorescent protein coding regions. Finally, the polycistronic potential of the genetic network was increased by including a bidirectional promoter between the first and second protein ensuring synchronized transcription. Additionally a P2A peptide, an autocatalyzing self-splicing linker, was included between the second and third protein guaranteeing synchronized translation.
+</p>
+</div>
+</div>
+</div>
+
+
+<!-- footer -->
+<div class="row" style="margin:0; border: 0; width: 100%;">
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Team</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Team/About"><font color="#9e515e">About</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Team/Members"><font color="#9e515e">Members</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Team/Attributes"><font color="#9e515e">Attributes</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Team/Sponsors"><font color="#9e515e">Sponsors</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Project</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Background"><font color="#9e515e">Background</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Sequence"><font color="#9e515e">Sequence</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Circuit"><font color="#9e515e">Circuit</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Organism"><font color="#9e515e">Organism</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Nanopore"><font color="#9e515e">Nanopore</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Project/Achievements"><font color="#9e515e">Achievements</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Parts</font></h3>
+
+    <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Part_Collection"><font color="#9e515e">Part Collection</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Optimized_RFPs"><font color="#9e515e">Optimized RFPs</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Visualizing_Evolution"><font color="#9e515e">Visualizing Evolution</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Parts/Repair Enzymes"><font color="#9e515e">Repair Enzymes</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Notebook</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/May"><font color="#9e515e">May</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/June"><font color="#9e515e">June</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/July"><font color="#9e515e">July</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/August"><font color="#9e515e">August</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Notebook/September"><font color="#9e515e">September</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Practices</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Safety"><font color="#9e515e">Safety</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Collaborations"><font color="#9e515e">Collaborations</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Real_World_Applications"><font color="#9e515e">Applications</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Practices/Interlab"><font color="#9e515e">Interlab</font></a>
+    <br>
+  </div>
+  <div class="col-lg-2" style="height:100%">
+    <h3><font color="#7e1d2e">Software</font></h3>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Software/Development"><font color="#9e515e">Development</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Software/User_Guide"><font color="#9e515e">User Guide</font></a>
+    <br>
+    <a href="http://2015.igem.org/Team:Vanderbilt/Software/Stats"><font color="#9e515e">Statistics</font></a>
+    <br>
+  </div>
+</div>
+  <br>
+<!-- /footer -->
+
+</div>
+
+<div class="col-lg-1 hidden-sm" style="height:100%;" id="dnaStrand2">
+  <br>
+  <div class="dnaStrand" alt="dna strand">
+  <img src="http://2015.igem.org/wiki/images/a/a6/Vanderbilt_2015_dna_strand_1.png"/>
+  <img src="http://2015.igem.org/wiki/images/d/d1/Vanderbilt_2015_dna_strand_2.png"/>
+  <img src="http://2015.igem.org/wiki/images/2/2a/Vanderbilt_2015_dna_strand_3.png"/>
+  <img src="http://2015.igem.org/wiki/images/f/f4/Vanderbilt_2015_dna_strand_4.png"/>
+  </div>
+</div>
+
+</div>
+</div>
+
+
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.013 seconds
+Real time usage: 0.015 seconds
+Preprocessor visited node count: 17/1000000
+Preprocessor generated node count: 84/1000000
+Post‐expand include size: 82/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key 2015_igem_org:pcache:idhash:31964-0!*!*!*!*!*!* and timestamp 20150921091847 and revision id 402418
+ -->
+</div>			<div class="visualClear"></div>
+		    </div>
+		</div>
+    </div>
+	</body>
+</html>
